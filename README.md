@@ -1,4 +1,4 @@
-### Hi there I'm Filip Bajdan! 👋
+# Hello, I'm Filip Bajdan! 😁
 
 ### Frontend developer who is a React Lover
 
@@ -9,3 +9,5 @@
 ## In progress 
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,tailwind&perline=4)](https://skillicons.dev)	
+
+---
